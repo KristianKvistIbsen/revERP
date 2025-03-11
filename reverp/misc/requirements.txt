@@ -1,0 +1,22 @@
+#DEPRICATED! Needs update
+
+# Core dependencies
+numpy>=1.20.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+PyYAML>=5.4.0
+
+# ANSYS dependencies
+ansys-dpf-core>=0.7.0
+
+# Visualization and logging
+rich>=10.0.0
+
+# Scientific computing
+pyshtools>=4.9.0
+
+# Optional dependencies for development
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+mypy>=0.910
